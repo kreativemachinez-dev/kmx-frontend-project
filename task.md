@@ -12,3 +12,10 @@ Next Class
 
 Font
 Accordion.
+
+
+classwork
+
+1) center element padding
+2) design
+3) Font: playfair display  
